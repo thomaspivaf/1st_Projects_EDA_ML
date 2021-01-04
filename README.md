@@ -5,7 +5,7 @@ Nesse ambiente você encontrará 3 pastas:
 
 1. Ocorrências Policias e Classificação:
   Análise dos dados de ocorrências policiais na cidade de Cary nos EUA, criação de indicador de segurança por bairro e aplicação de algoritmo de classificação para classificar
-  o nível de segurança novos bairros.
+  o nível de segurança em novos bairros.
 
 2. Avaliação de Vinhos e Clusterização:
   Análise de dados sobre classificação de vinhos internacionais e aplicação de algoritmo de clusterização dos vinhos para descobrir o grupos de vinhos.
