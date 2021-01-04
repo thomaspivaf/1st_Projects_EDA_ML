@@ -1,6 +1,6 @@
 # Ocorrências Policias e Classificação
 
-Análise dos dados de ocorrências policiais na cidade de Cary nos EUA, criação de indicador de segurança por bairro e aplicação de algoritmo de classificação para classificar o nível de segurança novos bairros.
+Análise dos dados de ocorrências policiais na cidade de Cary nos EUA, criação de indicador de segurança por bairro e aplicação de algoritmo de classificação para classificar o nível de segurança em novos bairros.
 
 Nesse ambiente você encontrará:
 
