@@ -1,6 +1,6 @@
 # Avaliação de Vinhos e Clusterização
 
-Análise de dados sobre classificação de vinhos internacionais e aplicação de algoritmo de clusterização dos vinhos para descobrir o grupos de vinhos.
+Análise de dados sobre classificação de vinhos internacionais e aplicação de algoritmo de clusterização dos vinhos para descobrir grupos de vinhos.
 
 Nesse ambiente você encontrará:
 
