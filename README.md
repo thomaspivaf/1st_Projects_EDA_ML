@@ -1,4 +1,4 @@
-# 1_Portfolio_EDA_ML
+# 1st_Projects_EDA_ML
 Primeiros projetos de análise exploratória de dados e aplicação de algoritmos de machine learning.
 
 Nesse ambiente você encontrará 3 pastas:
